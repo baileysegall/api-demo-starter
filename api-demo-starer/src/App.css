@@ -1,0 +1,35 @@
+.main{
+  height: 100vh;
+  width: 100vw;
+  background-color: #ffe8d6;
+
+  position: absolute;
+
+  /* Uses flex to arrange components */
+  display:flex;
+  flex-direction: column;
+  justify-content:center;
+  align-items: center;
+
+  /* Font */
+  color: #cb997e;
+  font-size: 100px;
+  font-weight: bolder;
+}
+
+/* Handles button aesthetics */
+.button{
+  background-color:#6b705c;
+  color: #ffffff;
+  border-color: #a5a58d;
+  border-radius: 2vh;
+
+
+  height: 5vh;
+  width: 10vw;
+}
+
+/* title */
+.title{
+  height: 6vh;
+}
