@@ -2,7 +2,7 @@
 
 ## Workshop Guide
 
-[Workshop Guide](https://www.dropbox.com/scl/fi/ock4fahhesc0gq7y71b6d/APIs-and-Backend-Development-with-Node.js-and-MongoDB.paper?dl=0&rlkey=x8amajxmhy7jplk9wyvhnlg8i) (contains more in-depth examples!)
+[Workshop Guide](https://www.dropbox.com/scl/fi/ock4fahhesc0gq7y71b6d/APIs-and-Backend-Development-with-Node.js-and-MongoDB.paper?dl=0&rlkey=x1lhsgzzp79dw0lyr8z9ca9kn) (contains more in-depth examples!)
 
 ## Setup
 
