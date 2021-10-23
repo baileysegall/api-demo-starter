@@ -28,7 +28,7 @@ function App() {
       <div class="main">
         <p class="title-with-image">CODEBASE API DEMO</p>
         <div class="container">
-          {/* Render image from url */}
+          {/* Render image from api */}
         </div>
         <button class="button-with-image" >Gimme Doggies</button>
       </div>
